@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPIntro", "TCPIntro\TCPIntro.csproj", "{4023B32F-F78C-49EB-93F1-56D5A132A4F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClient", "TCPClient\TCPClient.csproj", "{ABFB9ECA-403D-4149-8304-C9F5FBB84F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreadExample", "TreadExample\TreadExample.csproj", "{C71EB558-FE8A-4606-A5B5-7261A708C728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4023B32F-F78C-49EB-93F1-56D5A132A4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4023B32F-F78C-49EB-93F1-56D5A132A4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4023B32F-F78C-49EB-93F1-56D5A132A4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4023B32F-F78C-49EB-93F1-56D5A132A4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABFB9ECA-403D-4149-8304-C9F5FBB84F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFB9ECA-403D-4149-8304-C9F5FBB84F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFB9ECA-403D-4149-8304-C9F5FBB84F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFB9ECA-403D-4149-8304-C9F5FBB84F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71EB558-FE8A-4606-A5B5-7261A708C728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71EB558-FE8A-4606-A5B5-7261A708C728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71EB558-FE8A-4606-A5B5-7261A708C728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71EB558-FE8A-4606-A5B5-7261A708C728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
